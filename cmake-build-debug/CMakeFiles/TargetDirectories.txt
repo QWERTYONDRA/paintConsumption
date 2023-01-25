@@ -1,0 +1,3 @@
+C:/Users/student/Downloads/sbirka23/sbirka23/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Downloads/sbirka23/sbirka23/cmake-build-debug/CMakeFiles/sbirka23.dir
+C:/Users/student/Downloads/sbirka23/sbirka23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
